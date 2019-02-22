@@ -1,0 +1,15 @@
+# some important files for scrapy
+
+1. darice.py and primitivesbykathy.py have user authentication to get results.
+
+2. tractorpartsasap.py have to get nested links via hireachy.
+
+3. Save data direct into databse i.e mysql, mongodb
+
+4. download images into local system.
+
+5. download videos into local system.
+
+6. proxy setup.
+
+import spider in progress
